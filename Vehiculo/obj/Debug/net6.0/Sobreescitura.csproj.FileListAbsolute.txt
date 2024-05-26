@@ -1,0 +1,14 @@
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\bin\Debug\net6.0\Sobreescitura.exe
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\bin\Debug\net6.0\Sobreescitura.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\bin\Debug\net6.0\Sobreescitura.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\bin\Debug\net6.0\Sobreescitura.dll
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\bin\Debug\net6.0\Sobreescitura.pdb
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.dll
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\refint\Sobreescitura.dll
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.pdb
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\Sobreescitura.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\SobreescrituraYocultamiento\Vehiculo\obj\Debug\net6.0\ref\Sobreescitura.dll
