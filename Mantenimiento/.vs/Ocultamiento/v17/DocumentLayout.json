@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|c:\\users\\gallo\\onedrive\\escritorio\\sobreescriturayocultamiento\\mantenimiento\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85776A34-B810-448F-8DBA-37FF190F80DE}|Sobreescitura.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:44:03.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReparacionFrenos.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\ReparacionFrenos.cs",
+              "RelativeDocumentMoniker": "ReparacionFrenos.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\ReparacionFrenos.cs",
+              "RelativeToolTip": "ReparacionFrenos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:18:15.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CambioAceite.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\CambioAceite.cs",
+              "RelativeDocumentMoniker": "CambioAceite.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\CambioAceite.cs",
+              "RelativeToolTip": "CambioAceite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:26:04.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Servicio.cs",
+              "RelativeDocumentMoniker": "Servicio.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Servicio.cs",
+              "RelativeToolTip": "Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:21:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Coche.cs",
+              "RelativeDocumentMoniker": "Coche.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Coche.cs",
+              "RelativeToolTip": "Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:37:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:34:09.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\SobreescrituraYocultamiento\\Mantenimiento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:33:11.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
